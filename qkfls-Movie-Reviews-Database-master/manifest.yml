@@ -1,0 +1,5 @@
+---
+applications:
+ - name: movies-reviews-db-c8c
+   random-route: false
+   memory: 64M
